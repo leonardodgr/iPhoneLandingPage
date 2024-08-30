@@ -1,0 +1,13 @@
+{
+  "name": "iphone-landingpage-main",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
