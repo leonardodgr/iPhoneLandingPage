@@ -19,3 +19,4 @@ Este repositório contém uma landing page do iPhone, desenvolvida com HTML, CSS
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/iPhoneLandingPage.git
+2. Acesse: https://leonardodgr.github.io/iPhoneLandingPage/
